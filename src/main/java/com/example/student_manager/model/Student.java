@@ -1,4 +1,4 @@
-package com.example.studentmanager.model; 
+package com.example.student_manager.model; 
   
 import jakarta.persistence.Column; 
 import jakarta.persistence.Entity; 
